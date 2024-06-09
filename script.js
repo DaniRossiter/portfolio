@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const projects = [
-        { title: "Project 1", description: "Description of Project 1" },
+        { title: "Mixed Messages", description: "The Mental Health Message Generator is a simple JavaScript program that generates random, supportive, and uplifting messages focused on mental health. Each message is constructed from three different pieces of data to create a unique and encouraging statement every time the program is run." },
         { title: "Project 2", description: "Description of Project 2" },
         { title: "Project 3", description: "Description of Project 3" }
     ];
